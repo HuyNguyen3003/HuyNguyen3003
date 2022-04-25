@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 Im Huy</h1>
-- 🌱 I’m currently learning **front end and c++**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/HuyNguyen3003](https://github.com/HuyNguyen3003)
