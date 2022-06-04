@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/nguyenhuy3003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyenhuy3003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucv7qe7vfuq3nb-8qbjx95qq/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[https://www.youtube.com/channel/UCv7qe7vFuQ3nB-8QbJX95QQ"](https://www.youtube.com/channel/UCv7qe7vFuQ3nB-8QbJX95QQ) height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucv7qe7vfuq3nb-8qbjx95qq/featured" target="blank"><img align="center" 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
