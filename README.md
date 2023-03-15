@@ -6,15 +6,13 @@ mail: <tronghuy0077@gmail.com>
 
 fb    : <https://www.facebook.com/nguyenhuy3003>
 
-Dưới đây là những thứ tôi có sự hiểu biết qua các project nhỏ và tôi sẽ học kĩ hơn trong 2023:
-
-- IDS: VsCode
+Dưới đây là những thứ tôi có sự hiểu biết qua các project nhỏ và tôi sẽ làm nhiều hơn trong 2023:
 
 - JavaScripts
 
 - Version Control Tools: Github
 
-- Build tool: npm, yarn, nodemon, webpack
+- Build tool: npm, yarn, nodemon
 
 - Web Framework: expressJs, nestJs
 
@@ -22,17 +20,17 @@ Dưới đây là những thứ tôi có sự hiểu biết qua các project nh�
 
 - Real-Time Communication: Socket.Io
 
-- MicroServices: RabbitMq, Distrisbus
+- MicroServices: RabbitMq
 
 - ORM: sequelize, Mongoose
 
-- Caching: Node-Cache, Redis
+- Caching: Redis
 
 - DB: MySql, Redis, MongoDb, Elasticsearch
 
 - Type Checkers: Typescript
 
-- Logging: Morgan, Winston
+- Logging: Morgan
 
 - Security Libraries: bcryptjs, cors, jwt, express-jwt, joi, passport Js, Auth0, nodemailer
 
