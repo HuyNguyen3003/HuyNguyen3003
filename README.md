@@ -7,11 +7,7 @@ mail: <tronghuy0077@gmail.com>
 fb    : <https://www.facebook.com/nguyenhuy3003>
 
 Dưới đây là những thứ tôi có sự hiểu biết qua các project nhỏ và tôi sẽ làm nhiều hơn trong 2023:
-
-
-- Version Control Tools: Github
-
-- Build tool: npm, yarn, nodemon
+------------------------------------------------
 
 - Web Framework: expressJs, nestJs
 
