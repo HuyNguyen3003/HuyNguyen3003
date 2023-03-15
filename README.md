@@ -9,9 +9,9 @@ fb    : <https://www.facebook.com/nguyenhuy3003>
 Dưới đây là những thứ tôi có sự hiểu biết qua các project nhỏ và tôi sẽ làm nhiều hơn trong 2023:
 ------------------------------------------------
 
-- Web Framework: expressJs, nestJs
+- Web Framework: expressJs, reactJs, nestJs
 
-- Api Client: Rest Api axios, GraphQl Apollo
+- Api Client: Rest Api axios
 
 - Real-Time Communication: Socket.Io
 
