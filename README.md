@@ -27,5 +27,7 @@ Dưới đây là những thứ tôi có sự hiểu biết qua các project nh�
 - DevOpp: Docker
 
 * Các bài toán thực tế
+------------------------------------------------
 
-- FE: reacjs, redux
+- FE:
+-  reacjs, redux, bootstrap, css(scss), html
