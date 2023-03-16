@@ -8,7 +8,6 @@ fb    : <https://www.facebook.com/nguyenhuy3003>
 
 Dưới đây là những thứ tôi có sự hiểu biết qua các project nhỏ và tôi sẽ làm nhiều hơn trong 2023:
 ------------------------------------------------
-
 - Web Framework: expressJs, reactJs, nestJs
 
 - Api Client: Rest Api axios
@@ -25,14 +24,8 @@ Dưới đây là những thứ tôi có sự hiểu biết qua các project nh�
 
 - Type Checkers: Typescript
 
-- Logging: Morgan
-
-- Security Libraries: bcryptjs, cors, jwt, express-jwt, joi, passport Js, Auth0, nodemailer
-
 - Testing: Jest
 
-- Utillity Libraies: Lodas, Moment, classnames, Numelal, ImmutableJs, ramda
-
-- DevOpp: Docker, k8s
+- DevOpp: Docker
 
 * Các bài toán thực tế
