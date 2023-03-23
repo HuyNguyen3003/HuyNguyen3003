@@ -30,4 +30,4 @@ Dưới đây là những thứ tôi có sự hiểu biết qua các project nh�
 ------------------------------------------------
 
 - FE:
--  reacjs, redux, bootstrap, css(scss), html
+-  reacjs, redux, react-bootstrap, css(scss), html
