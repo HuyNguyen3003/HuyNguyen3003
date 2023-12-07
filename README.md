@@ -1,6 +1,6 @@
-**Hi ****👋****, I'm Huy, a full-stack developer currently working remotely as a full-time backend developer(fresher). For any inquiries, please email me at tronghuy0077@gmail.com. Excited to work together. Thank you!**
+**Hi ****👋****, I'm Huy, a backend developer ..., please email me at tronghuy0077@gmail.com. Excited to work together. Thank you!**
 
-**my goal is to reach the junior level before obtaining my university degree.~~**
+**...What about working in a junior position before entering the 4th year of university?...**
 
 
 
